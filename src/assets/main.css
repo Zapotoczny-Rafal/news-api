@@ -1,0 +1,10 @@
+html, body {
+  box-sizing: border-box;
+  background-color: #222;
+  scroll-behavior: smooth;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
